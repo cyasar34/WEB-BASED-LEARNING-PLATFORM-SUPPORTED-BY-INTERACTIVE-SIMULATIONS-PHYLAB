@@ -20,7 +20,7 @@ ETKİLEŞİMLİ SİMÜLASYONLARLA DESTEKLİ WEB TABANLI ÖĞRENME PLATFORMU:  PH
 
 ## <p align="justify">Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Web Tasarımı ve Kodlama Programı'nda 2024-2025 Bahar döneminde yürütülen İleri İnternet Programcılığı dersinde gerçekleştirilen uygulamalı proje çalışmalarının sonuçlarına dayanmaktadır. Yazarların ORCID Kimlikleri: 0000-0002-0765-861X, 0009-0001-2509-8636, 0009-0008-7976-0032, 0009-0001-5437-9461.
 
-## <p align="justify">This study is based on the results of the applied project studies carried out in the Advanced Internet Programming course conducted in the Spring semester of 2024-2025 at Istanbul Gelisim University, Istanbul Gelisim Vocational School Web Design and Coding Program. Authors' ORCID IDs: 0000-0002-0765-861X, 0009-0001-2509-8636, 0009-0008-7976-0032, 0009-0001-5437-9461..
+## <p align="justify">This study is based on the results of the applied project studies carried out in the Advanced Internet Programming course conducted in the Spring semester of 2024-2025 at Istanbul Gelisim University, Istanbul Gelisim Vocational School Web Design and Coding Program. Authors' ORCID IDs: 0000-0002-0765-861X, 0009-0001-2509-8636, 0009-0008-7976-0032, 0009-0001-5437-9461.
 
 ## Kongre Bilgileri / Congress Information
 
@@ -32,9 +32,9 @@ Kongre Tarihleri: 21-22 Haziran 2025 Bakü, Azerbaycan / June 21-22, 2025 Baku, 
 
 [Kongre İnternet Sayfası](https://www.internationalazerbaijancongress.com/)
 
-[Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:UebtZRa9Y70C)
+[Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:MXK_kJrjxJIC)
 
-[Araştırma ResearchGate Linki](https://www.researchgate.net/publication/389546055_WEB_TABANLI_EGITIM_PLATFORMU_GELISTIRME_SISTEM_ANALIZI_VE_TASARIMI_WEB-BASED_EDUCATION_PLATFORM_DEVELOPMENT_SYSTEM_ANALYSIS_AND_DESIGN)
+[Araştırma ResearchGate Linki](https://www.researchgate.net/publication/393160131_WEB-BASED_LEARNING_PLATFORM_SUPPORTED_BY_INTERACTIVE_SIMULATIONS_PHYLAB_ETKILESIMLI_SIMULASYONLARLA_DESTEKLI_WEB_TABANLI_OGRENMEPLATFORMU_PHYLAB)
 
 [Araştırma Sosyal Medya Linki](https://www.instagram.com/p/DLFKsVPNrwh/?img_index=1)
 
@@ -51,7 +51,7 @@ Abstract:
 - **APA**: Yaşar, Ç., Ballıkaya, A., Ertan, E. & Türlü, Y. (2025).  ETKİLEŞİMLİ SİMÜLASYONLARLA DESTEKLİ WEB TABANLI ÖĞRENME PLATFORMU:PHYLAB. 11. Uluslararası Azerbaycan Fen, Mühendislik, Matematik ve Uygulamalı  Bilimler Kongresi (pp.120-127). Bakü, Azerbaycan.                            
 - **MLA**: Yaşar, ÇİSEM, Ballıkaya, ARDA, Ertan, ERAY, ve TÜRLÜ, Yusuf.  "ETKİLEŞİMLİ SİMÜLASYONLARLA DESTEKLİ WEB TABANLI ÖĞRENME PLATFORMU:PHYLAB"  11. Uluslararası Azerbaycan Fen, Mühendislik, Matematik ve Uygulamalı  Bilimler Kongresi, Bakü, Azerbaycan. pp.120-127, 2025               
 
-![Bildiri Metni](https://github.com/cyasar34/WEB-BASED-EDUCATION-PLATFORM-DEVELOPMENT-SYSTEM-ANALYSIS-AND-DESIGN/blob/main/web_tabanli_egitim_platformu.PNG)
+![Bildiri Metni](https://github.com/cyasar34/WEB-BASED-LEARNING-PLATFORM-SUPPORTED-BY-INTERACTIVE-SIMULATIONS-PHYLAB/blob/main/phylab_tam_metin.PNG)
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
